@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<InterfaceFile>
+    <programing>
+        <orderId>20230424162207933</orderId>
+        <imagingMode>LPB</imagingMode>
+        <demandName>20230424162207933</demandName>
+        <imagingWkt>POINT(129.294,35.32059999999999)</imagingWkt>
+        <startTime>2023-04-25 00:00:00</startTime>
+        <endTime>2023-04-25 23:59:59</endTime>
+        <maxCloud>50</maxCloud>
+        <maxRoll>45</maxRoll>
+        <resolution>5.0</resolution>
+        <processingMethod>L1,L2C</processingMethod>
+        <isClipping>false</isClipping>
+        <workPattern>20</workPattern>
+<contract>资源-包1-常规编程-X元</contract>
+     </programing>
+</InterfaceFile>

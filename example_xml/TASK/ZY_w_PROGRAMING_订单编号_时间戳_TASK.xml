@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<task>
+    <feedbackType>TASK</feedbackType>
+    <message>SUCCESS</message>
+    <orderId>20230424162207933</orderId>
+    <orderIdWX>20230424162207933_ZY</orderIdWX>
+    <taskId>7bbf90354b0148dba6584b2a7e887e6a</taskId>
+    <imagingStartTime>2023-04-24 18:36:37</imagingStartTime>
+    <imagingEndTime>2023-04-24 18:36:37</imagingEndTime>
+    <satelliteId>JL1KF01B</satelliteId>
+    <imagingMode>LPB</imagingMode>
+    <createdTime>2023-04-24 18:36:37</createdTime>
+    <trPlanId>123342</trPlanId>
+    <receiveStartTime>2023-04-24 18:36:37</receiveStartTime>
+    <receiveEndTime>2023-04-24 18:36:37</receiveEndTime>
+</task>

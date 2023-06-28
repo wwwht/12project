@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<delivery>
+       <feedbackType>DELIVERY</feedbackType>
+       <message>SUCCESS</message>
+       <orderId>20230424174455081</orderId>
+       <orderIdWX>20230424174455081_ZY</orderIdWX>
+       <deliveryStartTime>2023-04-24 18:30:41</deliveryStartTime>
+       <deliveryEndTime>2023-04-24 18:30:41</deliveryEndTime>
+      <fileNames>Jxxxxxxx</fileNames>
+</delivery>

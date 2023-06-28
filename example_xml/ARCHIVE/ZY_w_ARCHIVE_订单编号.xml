@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<InterfaceFile>
+      <archive>
+        <orderId>20230424174454445</orderId>
+        <resolution>5.0</resolution>
+        <startTime>2023-04-17 17:44:46</startTime>
+        <endTime>2023-04-24 17:44:46</endTime>
+        <imagingWkt>POINT(139.67 35.3081)</imagingWkt>
+        <regionSize>5x5</regionSize>
+        <maxCloud>100</maxCloud>
+      </archive>
+</InterfaceFile>

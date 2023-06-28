@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<deliveryresult>
+	<feedbackType>DELIVERYFAIL</feedbackType>
+<errorType>1</errorType>
+	<message>因为XXX原因成像失败</message>
+<orderId>202109071123246</orderId>
+<orderIdWX>xxxxxxxxxx</orderIdWX>
+</deliveryresult >
